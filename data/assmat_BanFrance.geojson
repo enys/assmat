@@ -2,6 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 { "type": "Feature", "properties": { "adresse": "67 AVENUE DES CHARMES 94120 FONTENAY SOUS BOIS", "agrement": "Agrément maternel Capacité: 2", "nom": "Anon", "tel": "tel", "longitude": 2.45247, "latitude": 48.845865 }, "geometry": { "type": "Point", "coordinates": [ 2.45247, 48.845865 ] } },
-{ "type": "Feature", "properties": { "adresse": "6 RUE BOUVARD 94120 FONTENAY SOUS BOIS", "agrement": "Agrément maternel Capacité: 3", "nom": "Anon2", "tel": "tel", "longitude": 2.472772, "latitude": 48.849561 }, "geometry": { "type": "Point", "coordinates": [ 2.472772, 48.849561 ] } },
+{ "type": "Feature", "properties": { "adresse": "6 RUE BOUVARD 94120 FONTENAY SOUS BOIS", "agrement": "Agrément maternel Capacité: 3", "nom": "Anon2", "tel": "tel", "longitude": 2.472772, "latitude": 48.849561 }, "geometry": { "type": "Point", "coordinates": [ 2.472772, 48.849561 ] } }
 ]
 }
